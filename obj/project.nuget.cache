@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQRBa/GA+p4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\michael.lewellen\\CODE\\WheelOfFortune\\WheelOfFortune.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michael.lewellen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
